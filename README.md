@@ -1,0 +1,2 @@
+# kodi
+prosto proverka koda 
